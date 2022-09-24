@@ -1,1 +1,1 @@
-# logic-calculator
+# calculator
